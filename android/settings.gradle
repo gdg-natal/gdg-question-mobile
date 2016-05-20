@@ -1,0 +1,3 @@
+rootProject.name = 'I/O Extended Natal'
+
+include ':app'
